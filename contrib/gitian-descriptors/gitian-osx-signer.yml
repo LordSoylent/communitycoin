@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/cmccommunity/community.SIGS.git"
+- "url": "https://github.com/cmccommunity/communitycoin.SIGS.git"
   "dir": "signature"
 files:
 - "community-osx-unsigned.tar.gz"
